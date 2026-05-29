@@ -7,10 +7,14 @@ Full writeup on Medium: [link]
 Everything here was built and tested on machines I own. Do not use this on systems without explicit permission.
 
 **What it does**
-Reverse TCP connection — victim connects out to the operator
+Reverse TCP connection — client connects back to to the controller
+
 File system browsing — navigate the victim's directories
-File exfiltration — pull any file from the victim's machine
+
+Controlled file transfer functionality — pull any file from the client machine in a controlled lab environment
+
 Multi-client support — handle multiple victims simultaneously
+
 Self-contained persistence — exe copies itself and installs startup entry automatically
 
 **Requirements**
