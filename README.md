@@ -15,7 +15,7 @@ Controlled file transfer functionality — pull any file from the client machine
 
 Multi-client support — handle multiple victims simultaneously
 
-Self-contained persistence — exe copies itself and installs startup entry automatically
+Explored pesistence mechanisims commonly observed in malware analysis research
 
 **Requirements**
 Python 3.11+
