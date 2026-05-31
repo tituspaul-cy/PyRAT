@@ -7,13 +7,13 @@ Full writeup on Medium: https://medium.com/@titus06/building-pyrat-a-python-remo
 Everything here was built and tested on machines I own. Do not use this on systems without explicit permission.
 
 **What it does**
-Reverse TCP connection — client connects back to to the controller
+Reverse TCP connection: client connects back to to the controller
 
-File system browsing — navigate the victim's directories
+File system browsing: navigate the victim's directories
 
-Controlled file transfer functionality — pull any file from the client machine in a controlled lab environment
+Controlled file transfer functionality: pull any file from the client machine in a controlled lab environment
 
-Multi-client support — handle multiple victims simultaneously
+Multi-client support: handle multiple victims simultaneously
 
 Explored pesistence mechanisims commonly observed in malware analysis research
 
