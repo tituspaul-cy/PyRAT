@@ -1,6 +1,6 @@
 # PyRAT
 
-**PyRAT — Python Remote Access Trojan**
+**PyRAT Python Remote Access Trojan**
 A basic Command and Control framework built from scratch in Python for educational purposes. Built as part of a personal cybersecurity learning project to understand how RATs and C2 frameworks work at the socket level.
 Full writeup on Medium: https://medium.com/@titus06/building-pyrat-a-python-remote-access-trojan-from-scratch-b47774f541ec
 
